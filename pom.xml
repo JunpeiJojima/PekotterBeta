@@ -55,6 +55,11 @@
       <version>2.2</version>
       <scope>runtime</scope>
     </dependency>
+	  <dependency>
+  		<groupId>com.heroku</groupId>
+  		<artifactId>webapp-runner-main</artifactId>
+  		<version>9.0.30.0</version>
+	</dependency>
   </dependencies>
 
   <build>
